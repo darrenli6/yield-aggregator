@@ -196,13 +196,9 @@ class App extends Component {
 						<div className="row">
 							<div className="col">
 								<h1 className="my-5">Yield Aggregator</h1>
-								<a
-									href="http://www.dappuniversity.com/bootcamp"
-									target="_blank"
-									rel="noopener noreferrer"
-								>
+							 
 									<img src={logo} className="App-logo" alt="logo" />
-								</a>
+							 
 							</div>
 						</div>
 						<div className="row content">

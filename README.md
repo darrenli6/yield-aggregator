@@ -53,6 +53,8 @@ I recommend saving that mnemonic phrase to use it when you need to start (or res
 ### 5. Mint DAI
 `$ node ./mint-dai/dai.js`
 
+`truffle exec scripts/send-dai.js`
+
 ### 6. Run Frontend Application
 In a separate CMD prompt/terminal run:
 `$ npm start`
